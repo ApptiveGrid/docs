@@ -1,0 +1,101 @@
+{
+  "generatedBy": "tests/screenshots",
+  "shots": [
+    {
+      "name": "grid-bereich",
+      "doc": "erste-schritte/oberflaeche",
+      "caption": "Der Grid-Bereich: Seitenleiste, Werkzeugleiste und Tabelle",
+      "locale": "de",
+      "src": "/screenshots/de/erste-schritte/oberflaeche/grid-bereich.png",
+      "file": "de/erste-schritte/oberflaeche/grid-bereich.png"
+    },
+    {
+      "name": "grid-werkzeugleiste",
+      "doc": "erste-schritte/oberflaeche",
+      "caption": "Die Werkzeugleiste über der Tabelle",
+      "locale": "de",
+      "src": "/screenshots/de/erste-schritte/oberflaeche/grid-werkzeugleiste.png",
+      "file": "de/erste-schritte/oberflaeche/grid-werkzeugleiste.png"
+    },
+    {
+      "name": "space-navigation",
+      "doc": "erste-schritte/oberflaeche",
+      "caption": "Die Seitenleiste innerhalb eines Space mit den Bereichen Grids, Seiten und Flows",
+      "locale": "de",
+      "src": "/screenshots/de/erste-schritte/oberflaeche/space-navigation.png",
+      "file": "de/erste-schritte/oberflaeche/space-navigation.png"
+    },
+    {
+      "name": "schritt-1-space-anlegen",
+      "doc": "erste-schritte/schnellstart",
+      "caption": "Schritt 1: Der Dialog zum Anlegen eines Space",
+      "locale": "de",
+      "src": "/screenshots/de/erste-schritte/schnellstart/schritt-1-space-anlegen.png",
+      "file": "de/erste-schritte/schnellstart/schritt-1-space-anlegen.png"
+    },
+    {
+      "name": "schritt-2-grid-mit-feldern",
+      "doc": "erste-schritte/schnellstart",
+      "caption": "Das Grid Anmeldungen mit den Feldern Name, E-Mail und Personen",
+      "locale": "de",
+      "src": "/screenshots/de/erste-schritte/schnellstart/schritt-2-grid-mit-feldern.png",
+      "file": "de/erste-schritte/schnellstart/schritt-2-grid-mit-feldern.png"
+    },
+    {
+      "name": "schritt-2-spaltentyp-waehlen",
+      "doc": "erste-schritte/schnellstart",
+      "caption": "Schritt 2: Die Auswahl des Spaltentyps beim Anlegen eines Feldes",
+      "locale": "de",
+      "src": "/screenshots/de/erste-schritte/schnellstart/schritt-2-spaltentyp-waehlen.png",
+      "file": "de/erste-schritte/schnellstart/schritt-2-spaltentyp-waehlen.png"
+    },
+    {
+      "name": "grid-bereich",
+      "doc": "erste-schritte/oberflaeche",
+      "caption": "Der Grid-Bereich: Seitenleiste, Werkzeugleiste und Tabelle",
+      "locale": "en",
+      "src": "/screenshots/en/erste-schritte/oberflaeche/grid-bereich.png",
+      "file": "en/erste-schritte/oberflaeche/grid-bereich.png"
+    },
+    {
+      "name": "grid-werkzeugleiste",
+      "doc": "erste-schritte/oberflaeche",
+      "caption": "Die Werkzeugleiste über der Tabelle",
+      "locale": "en",
+      "src": "/screenshots/en/erste-schritte/oberflaeche/grid-werkzeugleiste.png",
+      "file": "en/erste-schritte/oberflaeche/grid-werkzeugleiste.png"
+    },
+    {
+      "name": "space-navigation",
+      "doc": "erste-schritte/oberflaeche",
+      "caption": "Die Seitenleiste innerhalb eines Space mit den Bereichen Grids, Seiten und Flows",
+      "locale": "en",
+      "src": "/screenshots/en/erste-schritte/oberflaeche/space-navigation.png",
+      "file": "en/erste-schritte/oberflaeche/space-navigation.png"
+    },
+    {
+      "name": "schritt-1-space-anlegen",
+      "doc": "erste-schritte/schnellstart",
+      "caption": "Schritt 1: Der Dialog zum Anlegen eines Space",
+      "locale": "en",
+      "src": "/screenshots/en/erste-schritte/schnellstart/schritt-1-space-anlegen.png",
+      "file": "en/erste-schritte/schnellstart/schritt-1-space-anlegen.png"
+    },
+    {
+      "name": "schritt-2-grid-mit-feldern",
+      "doc": "erste-schritte/schnellstart",
+      "caption": "Das Grid Anmeldungen mit den Feldern Name, E-Mail und Personen",
+      "locale": "en",
+      "src": "/screenshots/en/erste-schritte/schnellstart/schritt-2-grid-mit-feldern.png",
+      "file": "en/erste-schritte/schnellstart/schritt-2-grid-mit-feldern.png"
+    },
+    {
+      "name": "schritt-2-spaltentyp-waehlen",
+      "doc": "erste-schritte/schnellstart",
+      "caption": "Schritt 2: Die Auswahl des Spaltentyps beim Anlegen eines Feldes",
+      "locale": "en",
+      "src": "/screenshots/en/erste-schritte/schnellstart/schritt-2-spaltentyp-waehlen.png",
+      "file": "en/erste-schritte/schnellstart/schritt-2-spaltentyp-waehlen.png"
+    }
+  ]
+}
